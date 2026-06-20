@@ -86,8 +86,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
       { name: "twitter:title", content: "Capify" },
-      { name: "twitter:description", content: "Produtos selecionados com qualidade.
-🚚 Envio para todo o Brasil." },
+      { name: "twitter:description", content: "Produtos selecionados com qualidade. 🚚 Envio para todo o Brasil." },
       { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/zGhn4Uxl66P0NIrIokzCsJQyzR92/social-images/social-1781968956709-capify.webp" },
       { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/zGhn4Uxl66P0NIrIokzCsJQyzR92/social-images/social-1781968956709-capify.webp" },
     ],
